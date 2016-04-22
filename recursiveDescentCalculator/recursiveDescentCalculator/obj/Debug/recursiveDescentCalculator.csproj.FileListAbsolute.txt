@@ -1,0 +1,9 @@
+c:\users\deang\onedrive\documents\visual studio 2015\Projects\recursiveDescentCalculator\recursiveDescentCalculator\bin\Debug\recursiveDescentCalculator.exe.config
+c:\users\deang\onedrive\documents\visual studio 2015\Projects\recursiveDescentCalculator\recursiveDescentCalculator\bin\Debug\recursiveDescentCalculator.exe
+c:\users\deang\onedrive\documents\visual studio 2015\Projects\recursiveDescentCalculator\recursiveDescentCalculator\bin\Debug\recursiveDescentCalculator.pdb
+c:\users\deang\onedrive\documents\visual studio 2015\Projects\recursiveDescentCalculator\recursiveDescentCalculator\obj\Debug\recursiveDescentCalculator.csprojResolveAssemblyReference.cache
+c:\users\deang\onedrive\documents\visual studio 2015\Projects\recursiveDescentCalculator\recursiveDescentCalculator\obj\Debug\recursiveDescentCalculator.Form1.resources
+c:\users\deang\onedrive\documents\visual studio 2015\Projects\recursiveDescentCalculator\recursiveDescentCalculator\obj\Debug\recursiveDescentCalculator.Properties.Resources.resources
+c:\users\deang\onedrive\documents\visual studio 2015\Projects\recursiveDescentCalculator\recursiveDescentCalculator\obj\Debug\recursiveDescentCalculator.csproj.GenerateResource.Cache
+c:\users\deang\onedrive\documents\visual studio 2015\Projects\recursiveDescentCalculator\recursiveDescentCalculator\obj\Debug\recursiveDescentCalculator.exe
+c:\users\deang\onedrive\documents\visual studio 2015\Projects\recursiveDescentCalculator\recursiveDescentCalculator\obj\Debug\recursiveDescentCalculator.pdb
